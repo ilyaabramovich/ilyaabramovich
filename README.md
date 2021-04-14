@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilyaabramovich
-- 👀 I’m interested in web development, javscript, react
-- 🌱 I’m currently learning ruby on rails and react.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development, javascript, React.js
+- 🌱 I’m currently learning SQl, Ruby on Rails and React.js
+- 💞️ I’m looking to collaborate on building cool shieet
 - 📫 How to reach me telegram: @ilyaabramovich
 
 <!---
